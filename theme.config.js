@@ -4,8 +4,8 @@ export default {
   footer: (
     <footer>
       <small>
-        <time>{YEAR}</time> © Your Name.
-        <a href="/feed.xml">RSS</a>
+        <time>{YEAR}</time> © Aashay Agrawal.
+        <a href="/feed.xml"></a>
       </small>
       <style jsx>{`
         footer {
@@ -17,4 +17,10 @@ export default {
       `}</style>
     </footer>
   ),
+  navs: [
+ 
+  
+  ], 
+
+  darkMode: true,
 };
