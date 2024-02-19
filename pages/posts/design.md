@@ -1,6 +1,6 @@
 ---
 title: How I got into Design.
-date: 2021/3/18
+date: 2024/2/19
 description: 
 tag: Design
 author: You

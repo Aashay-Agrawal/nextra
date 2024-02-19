@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: "Aashay",
     description: "",
-    image: "",
+    image: "https://www.thisiscolossal.com/wp-content/uploads/2023/08/webb-1.jpg",
   };
 
   return (
