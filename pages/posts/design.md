@@ -6,5 +6,5 @@ tag: Design
 author: You
 ---
 
-## My journey
-will write soon.
+## idk
+i feel like design engineer as a career would be much better for me than as a product designer
