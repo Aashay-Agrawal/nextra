@@ -1,12 +1,12 @@
 ---
-title: Going To Change My Entire LIFE In 2 Years.
+title: Finding your Gold Pot.
 date: 2024/6/1
 description: 
 tag: Life
 author: You
 ---
 
-# Going to change my entire LIFE in 2 years.
+# Finding your Gold Pot.
 
 I have been exploring and searching for something that I truly love and enjoy during the last two years of college. I don't think I have found it yet, but I have discovered something close to it. Now that I have finally stumbled upon that gold pot, it is time to grind extremely hard.
 
