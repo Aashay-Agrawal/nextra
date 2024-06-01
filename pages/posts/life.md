@@ -18,6 +18,4 @@ My plan for the next six months:
 - Get really good at creating novel prototypes and designs
 - Build some great projects and hopefully get an internship
 
----
-
-I am so tired of my mediocre and mundane life that I want to change everything about it. I can't live anymore like this.
+**I am so tired of my mediocre and mundane life that I want to change everything about it. I can't live anymore like this.** 
