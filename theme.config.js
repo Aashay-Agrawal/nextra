@@ -17,10 +17,7 @@ export default {
       `}</style>
     </footer>
   ),
-  navs: [
- 
-  
-  ], 
+  navs: [],
 
   darkMode: true,
 };
